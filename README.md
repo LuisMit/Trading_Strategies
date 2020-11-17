@@ -1,4 +1,4 @@
-# R Group Project
+# Stock picking machine learning algorithm
 
 ## What is the goal of our programme?
 ...
@@ -7,7 +7,7 @@
 1.	Importing necessary packages for financial analysis
 2.	Deciding on which markets to choose for the analysis (region/sector)
 3.	Selecting suitable indicators (technical/fundamental)
-4.	Importing relevant data from the internet (yahoo finance)
+4.	Importing relevant data from the internet
 5.	Cleaning and preparing data
 6.	Trying different machine learning algorithms (K-NN/MMH/LR/DNN etc. -> Luis) which distinguishe between the two classes buys and sells
 7.	Validating the algorithms with historic and current data 
