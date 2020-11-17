@@ -1,6 +1,6 @@
 # Stock picking machine learning algorithm
 
-## What is the goal of our programme?
+## What is the goal of our project?
 ...
 
 ## Our approach:
