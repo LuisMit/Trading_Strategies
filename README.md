@@ -1,9 +1,9 @@
-R Group Project
+# R Group Project
 
-What is the goal of our programme?
+## What is the goal of our programme?
 ...
 
-Our approach:
+## Our approach:
 1.	Importing necessary packages for financial analysis
 2.	Deciding on which markets to choose for the analysis (region/sector)
 3.	Selecting suitable indicators (technical/fundamental)
@@ -17,5 +17,5 @@ Our approach:
 
 https://towardsdatascience.com/how-to-use-machine-learning-to-possibly-become-a-millionaire-predicting-the-stock-market-33861916e9c5
 
-Assignment of tasks:
+## Assignment of tasks:
 ...
