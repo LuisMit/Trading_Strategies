@@ -1,6 +1,6 @@
 # Stock picking machine learning algorithm
 
-## Objective target?
+## Objective target
 ...
 
 ## Approach
