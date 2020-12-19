@@ -30,12 +30,12 @@ Finally, the strategies are backtested and the performance is illustrated in a d
 #### 4.2 Stock data
 - Short- and long-term simple and exponential moving averages for each stock are calculated.
 - Five trading strategies based on the moving averages are developed. The idea is that we invest in one of the chosen companies if a short-term moving average is above a long-term moving average or if a simple moving average is above an exponential moving average.
-- Strategy 1: The 20-day is above the 50-day simple moving average for each stock.
-- Strategy 2: The 20-day is above the 50-day exponential moving average for each stock.
-- Strategy 3: The 50-day is above the 200-day simple moving average for each stock.
-- Strategy 4: The 50-day is above the 200-day exponential moving average for each stock.
-- Strategy 5: The 20-day exponential moving average is above the 20-day simple moving average for each stock.
-- Each strategy is backested over the selected time period and an price index is calculated.
+- Strategy 1: The 20-day is above the 50-day simple moving average.
+- Strategy 2: The 20-day is above the 50-day exponential moving average.
+- Strategy 3: The 50-day is above the 200-day simple moving average.
+- Strategy 4: The 50-day is above the 200-day exponential moving average.
+- Strategy 5: The 20-day exponential moving average is above the 20-day simple moving average.
+- Each strategy is backested over the selected time period and a price index is calculated.
 - All price indices are merged in one dataframe.
 
 ### 5. Data visualization
