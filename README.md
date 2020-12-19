@@ -10,7 +10,7 @@ Finally, the strategies are backtested and the performance is illustrated in a d
 
 ## Approach
 ### 1. Set-up
-- All relevant packgages are loaded and if necessary installed.
+- All relevant packages are loaded and if necessary installed.
 - The time period for which the financial data is imported and analysed is selected.
 
 ### 2. Data Import
@@ -35,7 +35,7 @@ Finally, the strategies are backtested and the performance is illustrated in a d
 - Strategy 3: The 50-day is above the 200-day simple moving average.
 - Strategy 4: The 50-day is above the 200-day exponential moving average.
 - Strategy 5: The 20-day exponential moving average is above the 20-day simple moving average.
-- Each strategy is backested over the selected time period and a price index is calculated.
+- Each strategy is backtested over the selected time period and a price index is calculated.
 - All price indices are merged in one dataframe.
 
 ### 5. Data visualization
