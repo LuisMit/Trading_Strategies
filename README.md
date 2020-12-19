@@ -13,15 +13,15 @@ Finally, the strategies are backtested and the performance is illustrated in a d
 - All relevant packgages are loaded and if necessary installed.
 - The time period for which the financial data is imported and analysed is selected.
 
-### 2. Data Import:
+### 2. Data Import
 - A dataset containing symbols of all companies currently included in the S&P500 is imported.
 - Price data for the selected time period for each company which was chosen to analyse is imported.
 - Price data for the selected time period for the S&P500 is imported.
 
-### 3. Data preparation:
+### 3. Data preparation
 - Some columns of the different dataframes are removed or renamed to simplify the data analysis.
 
-### 4. Data analysis:
+### 4. Data analysis
 ##### 4.1 S&P500
 - Short- and long-term simple and exponential moving averages for the S&P500 are calculated and added to the dataframe.
 - The performance of the S&P500 and its moving averages are plotted to verify that the moving average calculatins are working fine.
@@ -29,7 +29,5 @@ Finally, the strategies are backtested and the performance is illustrated in a d
 - A price index is created based on the returns of the S&P500 to better compare its performance to the trading strategies later on.
 #### 4.2 Stock data
 - 
-4.3
-4.4
 
-5. Data visualization:
+### 5. Data visualization
