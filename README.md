@@ -9,6 +9,10 @@ Various trading strategies are then created by being invested in stocks if a cer
 Finally, the strategies are backtested and the performance is illustrated in a diagram.
 
 ## Approach
-1. ...
-2. ...
-3. ...
+1. Data Import:
+
+2. Data preparation:
+
+3. Data analysis:
+
+4. Visualization:
