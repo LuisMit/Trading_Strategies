@@ -15,4 +15,4 @@ Finally, the strategies are backtested and the performance is illustrated in a d
 
 3. Data analysis:
 
-4. Visualization:
+4. Data visualization:
