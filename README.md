@@ -22,12 +22,19 @@ Finally, the strategies are backtested and the performance is illustrated in a d
 - Some columns of the different dataframes are removed or renamed to simplify the data analysis.
 
 ### 4. Data analysis
-##### 4.1 S&P500
-- Short- and long-term simple and exponential moving averages for the S&P500 are calculated and added to the dataframe.
+#### 4.1 S&P500
+- Short- and long-term simple and exponential moving averages for the S&P500 are calculated.
 - The performance of the S&P500 and its moving averages are plotted to verify that the moving average calculatins are working fine.
-- Daily returns of the S&P500 are calculated and added to the dataframe.
+- Daily returns of the S&P500 are calculated.
 - A price index is created based on the returns of the S&P500 to better compare its performance to the trading strategies later on.
 #### 4.2 Stock data
+- Short- and long-term simple and exponential moving averages for each stock are calculated.
+- Five trading strategies based on the moving averages are developed. The idea is that it will be invested in one of the chosen companies if a short-term moving average is abovea long-term moving average or if a simple moving average is above a exponential moving average.
+- Strategy 1: Determining periods in which the 20-day SMA is above the 50-day SMA for each stock.
+- Strategy 2:
+- Strategy 3:
+- Strategy 4:
+- Strategy 5:
 - 
 
 ### 5. Data visualization
